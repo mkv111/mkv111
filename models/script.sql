@@ -1,0 +1,1 @@
+select * from LEARN_DBT_DB.PUBLIC.my_first_dbt_model
